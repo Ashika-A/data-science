@@ -18,3 +18,13 @@ and the proceed with the code
 
 
 Thank you
+
+
+
+
+SENTIMENT ANALYSIS.ipynb
+This model is used for sentiment analysis of data that is extracted from twitter
+it involves pre-processing,Tokenization,Lemmatization,Stemming
+model 1 : Bernoulli Naive Bayes Classifier
+model 2: SVM (Support Vector Machine)
+model 3: Logistic Regression
