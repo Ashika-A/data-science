@@ -1,5 +1,5 @@
 # data-science
-Text Analysis project:
+Text Analysis.ipynb project:
 sklearn library is used
 In this project i have trained the model where in it would catagorize the Text passed by the user to respective catagory
 Household,books,Clothing and accessories,Electronics are the catogories that the model has been trained
