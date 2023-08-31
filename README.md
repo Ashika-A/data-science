@@ -11,3 +11,10 @@ The model is trained by using
  by importing,from sklearn.ensemble import RandomForestClassifier
  part3: LogisticRegression
  by importing,from sklearn.linear_model import LogisticRegression
+steps involved
+1.create a kaagle account and  download the token in the profile section of kaggle
+2.upload that kaggle token to your collab notebook
+and the proceed with the code
+
+
+Thank you
